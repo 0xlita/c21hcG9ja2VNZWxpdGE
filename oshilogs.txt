@@ -12,55 +12,47 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Melita =====
-[1]Melita      |08:26:31 | 12-10-2026| login OK @melitaadeline | score=990 rank=6160
-[1]Melita      |08:26:31 | 12-10-2026| serverTime=2026-10-12T08:26:31.000Z local=2026-10-12T08:26:31.595Z
+[1]Melita      |08:50:43 | 13-10-2026| login OK @melitaadeline | score=1080 rank=5739
+[1]Melita      |08:50:43 | 13-10-2026| serverTime=2026-10-13T08:50:43.000Z local=2026-10-13T08:50:43.568Z
 --> [1]Melita menjalankan: Claim Daily
-[1]Melita      |08:26:32 | 12-10-2026| daily: OK +10 poin score=1000
---> [1]Melita menjalankan: Auto All Tasks (8 pending)
-[1]Melita      |08:26:35 | 12-10-2026| [1/8] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/melitaadeline/status/2109561010106018857
-[1]Melita      |08:26:35 | 12-10-2026| delay 10s...
-[1]Melita      |08:26:47 | 12-10-2026| [2/8] c0692622 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/melitaadeline/status/2109560936238394694
-[1]Melita      |08:26:47 | 12-10-2026| delay 10s...
-[1]Melita      |08:26:59 | 12-10-2026| [3/8] fa907706 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/melitaadeline/status/2109561000503623658
-[1]Melita      |08:26:59 | 12-10-2026| delay 10s...
-[1]Melita      |08:27:11 | 12-10-2026| [4/8] f3c57454 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
-[1]Melita      |08:27:11 | 12-10-2026| delay 10s...
-[1]Melita      |08:27:24 | 12-10-2026| [5/8] 446fd4f4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/melitaadeline/status/2109561039797902280
-[1]Melita      |08:27:24 | 12-10-2026| delay 10s...
-[1]Melita      |08:27:36 | 12-10-2026| [6/8] cbf91691 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/melitaadeline/status/2109561115856129547
-[1]Melita      |08:27:36 | 12-10-2026| delay 10s...
-[1]Melita      |08:27:49 | 12-10-2026| [7/8] 65e97767 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203
-[1]Melita      |08:27:49 | 12-10-2026| delay 10s...
-[1]Melita      |08:28:01 | 12-10-2026| [8/8] abf84ab9 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/melitaadeline/status/2109561176586052777
-[1]Melita      |08:28:01 | 12-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Melita      |08:28:03 | 12-10-2026| [1/1] cdea075d (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/melitaadeline/status/2109561394630590725
+[1]Melita      |08:50:44 | 13-10-2026| daily: OK +10 poin score=1090
+--> [1]Melita menjalankan: Auto All Tasks (4 pending)
+[1]Melita      |08:50:47 | 13-10-2026| [1/4] c3c2f662 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/melitaadeline/status/2109929337503036220
+[1]Melita      |08:50:47 | 13-10-2026| delay 10s...
+[1]Melita      |08:50:59 | 13-10-2026| [2/4] 52236caa (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/melitaadeline/status/2109929330387604767
+[1]Melita      |08:50:59 | 13-10-2026| delay 10s...
+[1]Melita      |08:51:11 | 13-10-2026| [3/4] 484fa559 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/melitaadeline/status/2109929565908034519
+[1]Melita      |08:51:11 | 13-10-2026| delay 10s...
+[1]Melita      |08:51:24 | 13-10-2026| [4/4] 7411ef73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"210817406471203 | proof=https://x.com/melitaadeline/status/2109929416720212604
+[1]Melita      |08:51:24 | 13-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Melita      |08:51:25 | 13-10-2026| [1/1] c3c2f662 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"553e7e04-7389-4083-9b6f-270e66241a4e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2108174064712032 | proof=https://x.com/melitaadeline/status/2109929670297019763
 --> [1]Melita menjalankan: Watch Anime
-[1]Melita      |08:28:04 | 12-10-2026| watch: semua video sudah completed
+[1]Melita      |08:51:26 | 13-10-2026| watch: semua video sudah completed
 --> [1]Melita menjalankan: Read Article
-[1]Melita      |08:28:05 | 12-10-2026| news: 24/24 artikel selesai dibaca
-[1]Melita      |08:28:05 | 12-10-2026| mint eligibility: {"userId":"1748151597136478208","youtube":{"url":"https://www.youtube.com/@melitaadelinee","status":"submitted","revision":"63eb915f-e613-49aa-b62f-354599c1822a","submittedAt":1791673996,"reviewedAt":
-[1]Melita      |08:28:05 | 12-10-2026| news: semua artikel sudah dibaca
+[1]Melita      |08:51:28 | 13-10-2026| news: 24/24 artikel selesai dibaca
+[1]Melita      |08:51:28 | 13-10-2026| mint eligibility: {"userId":"1748151597136478208","youtube":{"url":"https://www.youtube.com/@melitaadelinee","status":"submitted","revision":"63eb915f-e613-49aa-b62f-354599c1822a","submittedAt":1791673996,"reviewedAt":
+[1]Melita      |08:51:28 | 13-10-2026| news: semua artikel sudah dibaca
 --> [1]Melita menjalankan: Quiz Anime
-[1]Melita      |08:28:06 | 12-10-2026| quiz ep1: sudah dijawab
-[1]Melita      |08:28:06 | 12-10-2026| quiz ep2: sudah dijawab
-[1]Melita      |08:28:06 | 12-10-2026| quiz ep3: sudah dijawab
-[1]Melita      |08:28:06 | 12-10-2026| quiz ep4: sudah dijawab
-[1]Melita      |08:28:06 | 12-10-2026| quiz ep5: sudah dijawab
-[1]Melita      |08:28:06 | 12-10-2026| quiz ep6: sudah dijawab
+[1]Melita      |08:51:29 | 13-10-2026| quiz ep1: sudah dijawab
+[1]Melita      |08:51:29 | 13-10-2026| quiz ep2: sudah dijawab
+[1]Melita      |08:51:29 | 13-10-2026| quiz ep3: sudah dijawab
+[1]Melita      |08:51:29 | 13-10-2026| quiz ep4: sudah dijawab
+[1]Melita      |08:51:29 | 13-10-2026| quiz ep5: sudah dijawab
+[1]Melita      |08:51:29 | 13-10-2026| quiz ep6: sudah dijawab
 --> [1]Melita menjalankan: Music Missions (realtime, bisa lama!)
-[1]Melita      |08:28:08 | 12-10-2026| music: kedua misi sudah tercapai, stop
-[1]Melita      |08:28:08 | 12-10-2026| mission music-listens-10: sudah diklaim
-[1]Melita      |08:28:08 | 12-10-2026| mission music-minutes-30: sudah diklaim
-[1]Melita      |08:28:08 | 12-10-2026| mission anime-completed-3: sudah diklaim
+[1]Melita      |08:51:31 | 13-10-2026| music: kedua misi sudah tercapai, stop
+[1]Melita      |08:51:32 | 13-10-2026| mission music-listens-10: sudah diklaim
+[1]Melita      |08:51:32 | 13-10-2026| mission music-minutes-30: sudah diklaim
+[1]Melita      |08:51:32 | 13-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Melita menjalankan: Claim Missions
-[1]Melita      |08:28:09 | 12-10-2026| mission music-listens-10: sudah diklaim
-[1]Melita      |08:28:09 | 12-10-2026| mission music-minutes-30: sudah diklaim
-[1]Melita      |08:28:09 | 12-10-2026| mission anime-completed-3: sudah diklaim
+[1]Melita      |08:51:33 | 13-10-2026| mission music-listens-10: sudah diklaim
+[1]Melita      |08:51:33 | 13-10-2026| mission music-minutes-30: sudah diklaim
+[1]Melita      |08:51:33 | 13-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Melita menjalankan: Check Eligibility
 
 --- eligibility [1]Melita ---
-  @melitaadeline | score=990 rank=6160
-  tasks    [##################--] 72/80
+  @melitaadeline | score=1080 rank=5739
+  tasks    [###################-] 73/77
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -68,17 +60,17 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   watch    [####################] 18/17
   music    [####################] 11/11
   artikel  [####################] 24/24
-  mint: requirementsMet=true mintOpen=false discord=true
+  mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Melita menjalankan: Read Manga
-[1]Melita      |08:28:13 | 12-10-2026| manga: 0/13 chapter belum completed
+[1]Melita      |08:51:37 | 13-10-2026| manga: 0/13 chapter belum completed
 --> [1]Melita menjalankan: Get Gift
-[1]Melita      |08:28:14 | 12-10-2026| gift: 0/3 belum diterima
+[1]Melita      |08:51:38 | 13-10-2026| gift: 0/3 belum diterima
 --> [1]Melita menjalankan: Setup Profile
-[1]Melita      |08:28:14 | 12-10-2026| profile: bio="https://x.com/melitaadeline" fav=amato rewardAt=1791706616
-[1]Melita      |08:28:14 | 12-10-2026| profile: bonus sudah diklaim, skip
+[1]Melita      |08:51:38 | 13-10-2026| profile: bio="https://x.com/melitaadeline" fav=amato rewardAt=1791706616
+[1]Melita      |08:51:38 | 13-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Melita menjalankan: Bind Wallet
-[1]Melita      |08:28:15 | 12-10-2026| wallet: sudah terikat 4JL9mHbkPH... (solana)
+[1]Melita      |08:51:39 | 13-10-2026| wallet: sudah terikat 4JL9mHbkPH... (solana)
 
 == RINGKASAN ==
-- Melita: daily=claimed | tasks OK 9/9 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/3 diterima | profile - | wallet bound | mint req=true open=false
+- Melita: daily=claimed | tasks OK 5/5 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/3 diterima | profile - | wallet bound | mint req=false open=false
