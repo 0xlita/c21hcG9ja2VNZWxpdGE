@@ -12,86 +12,126 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Melita =====
-[1]Melita      |09:28:36 | 19-10-2026| login OK @melitaadeline | score=1460 rank=4714
-[1]Melita      |09:28:36 | 19-10-2026| serverTime=2026-10-19T09:28:36.000Z local=2026-10-19T09:28:36.875Z
+[1]Melita      |09:02:16 | 20-10-2026| login OK @melitaadeline | score=1570 rank=4437
+[1]Melita      |09:02:16 | 20-10-2026| serverTime=2026-10-20T09:02:16.000Z local=2026-10-20T09:02:16.374Z
 --> [1]Melita menjalankan: Claim Daily
-[1]Melita      |09:28:38 | 19-10-2026| daily: OK +10 poin score=1470
---> [1]Melita menjalankan: Auto All Tasks (10 pending)
-[1]Melita      |09:28:39 | 19-10-2026| [1/10] 27d69bc4 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/melitaadeline/status/2112113190068466337
-[1]Melita      |09:28:39 | 19-10-2026| delay 10s...
-[1]Melita      |09:28:53 | 19-10-2026| [2/10] 29d2bf65 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/melitaadeline/status/2112113394452460046
-[1]Melita      |09:28:53 | 19-10-2026| delay 10s...
-[1]Melita      |09:29:07 | 19-10-2026| [3/10] 1cc2da8d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/melitaadeline/status/2112113211574268308
-[1]Melita      |09:29:07 | 19-10-2026| delay 10s...
-[1]Melita      |09:29:20 | 19-10-2026| [4/10] e792000f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/melitaadeline/status/2112113255096418637
-[1]Melita      |09:29:20 | 19-10-2026| delay 10s...
-[1]Melita      |09:29:33 | 19-10-2026| [5/10] 5830cfb5 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/melitaadeline/status/2112113559064709369
-[1]Melita      |09:29:33 | 19-10-2026| delay 10s...
-[1]Melita      |09:29:46 | 19-10-2026| [6/10] 75d20c29 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/melitaadeline/status/2112113550556931285
-[1]Melita      |09:29:46 | 19-10-2026| delay 10s...
-[1]Melita      |09:29:59 | 19-10-2026| [7/10] c4a0bafb (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/melitaadeline/status/2112113474709153704
-[1]Melita      |09:29:59 | 19-10-2026| delay 10s...
-[1]Melita      |09:30:11 | 19-10-2026| [8/10] de7bf305 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/melitaadeline/status/2112113655081996852
-[1]Melita      |09:30:11 | 19-10-2026| delay 10s...
-[1]Melita      |09:30:24 | 19-10-2026| [9/10] f2efc21b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/melitaadeline/status/2112113708184116691
-[1]Melita      |09:30:24 | 19-10-2026| delay 10s...
-[1]Melita      |09:30:38 | 19-10-2026| [10/10] c821602a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211209280040169 | proof=https://x.com/melitaadeline/status/2112113721026717416
-[1]Melita      |09:30:38 | 19-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Melita      |09:30:40 | 19-10-2026| [1/1] 27d69bc4 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"27d69bc4-52ef-4041-9b4b-0c0cea53e07e","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112092800401699 | proof=https://x.com/melitaadeline/status/2112113677972127701
+[1]Melita      |09:02:17 | 20-10-2026| daily: OK +10 poin score=1580
+--> [1]Melita menjalankan: Auto All Tasks (6 pending)
+[1]Melita      |09:02:19 | 20-10-2026| [1/6] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/melitaadeline/status/2112468942081320220
+[1]Melita      |09:02:19 | 20-10-2026| delay 10s...
+[1]Melita      |09:02:30 | 20-10-2026| [2/6] 6e765bbf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/melitaadeline/status/2112469175453206423
+[1]Melita      |09:02:30 | 20-10-2026| delay 10s...
+[1]Melita      |09:02:42 | 20-10-2026| [3/6] ecdd3dc8 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/melitaadeline/status/2112469249882213033
+[1]Melita      |09:02:42 | 20-10-2026| delay 10s...
+[1]Melita      |09:02:54 | 20-10-2026| [4/6] f533191c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/melitaadeline/status/2112469291096353070
+[1]Melita      |09:02:54 | 20-10-2026| delay 10s...
+[1]Melita      |09:03:06 | 20-10-2026| [5/6] 8ff68dcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/melitaadeline/status/2112469172216949597
+[1]Melita      |09:03:06 | 20-10-2026| delay 10s...
+[1]Melita      |09:03:18 | 20-10-2026| [6/6] 57f13195 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211220094967479 | proof=https://x.com/melitaadeline/status/2112469365182515088
+[1]Melita      |09:03:18 | 20-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Melita      |09:03:20 | 20-10-2026| [1/1] f8ede5f6 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"f8ede5f6-e089-406b-b2f5-a1a2aa98d349","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2112200949674791 | proof=https://x.com/melitaadeline/status/2112469172867228021
 --> [1]Melita menjalankan: Watch Anime
-[1]Melita      |09:30:41 | 19-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
-[1]Melita      |09:30:41 | 19-10-2026| watch [1/4] farming oshi-captains-hat...
-  video baru dikenal: oshi-captains-hat (katalog +5)
-[1]Melita      |09:30:43 | 19-10-2026| watch oshi-captains-hat: durasi tak diketahui, skip (record tidak disentuh)
-[1]Melita      |09:30:48 | 19-10-2026| watch [2/4] farming oshi-rainbow-star...
-[1]Melita      |09:30:50 | 19-10-2026| watch oshi-rainbow-star: durasi tak diketahui, skip (record tidak disentuh)
-[1]Melita      |09:30:55 | 19-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
-[1]Melita      |09:30:57 | 19-10-2026| watch oshi-rainbow-lighthouse: durasi tak diketahui, skip (record tidak disentuh)
-[1]Melita      |09:31:02 | 19-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
-[1]Melita      |09:31:05 | 19-10-2026| watch bakeru-ikesou-jan-mv: durasi tak diketahui, skip (record tidak disentuh)
+[1]Melita      |09:03:20 | 20-10-2026| watch: 4 video belum completed: oshi-captains-hat,oshi-rainbow-star,oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
+[1]Melita      |09:03:20 | 20-10-2026| watch [1/4] farming oshi-captains-hat...
+[1]Melita      |09:03:22 | 20-10-2026| watch oshi-captains-hat: 0% (0.00/92.00s)
+[1]Melita      |09:03:28 | 20-10-2026| watch oshi-captains-hat: 5% (5.34/92.00s)
+[1]Melita      |09:03:34 | 20-10-2026| watch oshi-captains-hat: 11% (10.84/92.00s)
+[1]Melita      |09:03:40 | 20-10-2026| watch oshi-captains-hat: 17% (16.26/92.00s)
+[1]Melita      |09:03:47 | 20-10-2026| watch oshi-captains-hat: 23% (21.71/92.00s)
+[1]Melita      |09:03:53 | 20-10-2026| watch oshi-captains-hat: 29% (27.56/92.00s)
+[1]Melita      |09:03:59 | 20-10-2026| watch oshi-captains-hat: 35% (33.11/92.00s)
+[1]Melita      |09:04:05 | 20-10-2026| watch oshi-captains-hat: 42% (38.77/92.00s)
+[1]Melita      |09:04:11 | 20-10-2026| watch oshi-captains-hat: 48% (44.16/92.00s)
+[1]Melita      |09:04:18 | 20-10-2026| watch oshi-captains-hat: 54% (49.86/92.00s)
+[1]Melita      |09:04:24 | 20-10-2026| watch oshi-captains-hat: 60% (55.42/92.00s)
+[1]Melita      |09:04:30 | 20-10-2026| watch oshi-captains-hat: 66% (60.87/92.00s)
+[1]Melita      |09:04:36 | 20-10-2026| watch oshi-captains-hat: 72% (66.27/92.00s)
+[1]Melita      |09:04:42 | 20-10-2026| watch oshi-captains-hat: 77% (71.72/92.00s)
+[1]Melita      |09:04:48 | 20-10-2026| watch oshi-captains-hat: 84% (77.42/92.00s)
+[1]Melita      |09:04:55 | 20-10-2026| watch oshi-captains-hat: 90% (82.83/92.00s)
+[1]Melita      |09:04:55 | 20-10-2026| watch oshi-captains-hat: COMPLETED (82.83/92.00s)
+[1]Melita      |09:05:00 | 20-10-2026| watch [2/4] farming oshi-rainbow-star...
+[1]Melita      |09:05:01 | 20-10-2026| watch oshi-rainbow-star: 0% (0.00/86.00s)
+[1]Melita      |09:05:07 | 20-10-2026| watch oshi-rainbow-star: 5% (5.09/86.00s)
+[1]Melita      |09:05:19 | 20-10-2026| watch oshi-rainbow-star: heartbeat GAGAL http=503
+[1]Melita      |09:05:24 | 20-10-2026| watch [3/4] farming oshi-rainbow-lighthouse...
+[1]Melita      |09:05:25 | 20-10-2026| watch oshi-rainbow-lighthouse: start GAGAL http=503
+[1]Melita      |09:05:30 | 20-10-2026| watch [4/4] farming bakeru-ikesou-jan-mv...
+[1]Melita      |09:05:31 | 20-10-2026| watch bakeru-ikesou-jan-mv: 0% (0.00/181.00s)
+[1]Melita      |09:05:37 | 20-10-2026| watch bakeru-ikesou-jan-mv: 2% (5.10/181.00s)
+[1]Melita      |09:05:43 | 20-10-2026| watch bakeru-ikesou-jan-mv: 5% (10.42/181.00s)
+[1]Melita      |09:05:49 | 20-10-2026| watch bakeru-ikesou-jan-mv: 8% (15.71/181.00s)
+[1]Melita      |09:05:55 | 20-10-2026| watch bakeru-ikesou-jan-mv: 11% (21.06/181.00s)
+[1]Melita      |09:06:01 | 20-10-2026| watch bakeru-ikesou-jan-mv: 14% (26.41/181.00s)
+[1]Melita      |09:06:07 | 20-10-2026| watch bakeru-ikesou-jan-mv: 17% (31.80/181.00s)
+[1]Melita      |09:06:14 | 20-10-2026| watch bakeru-ikesou-jan-mv: 20% (37.93/181.00s)
+[1]Melita      |09:06:20 | 20-10-2026| watch bakeru-ikesou-jan-mv: 24% (43.49/181.00s)
+[1]Melita      |09:06:26 | 20-10-2026| watch bakeru-ikesou-jan-mv: 26% (48.82/181.00s)
+[1]Melita      |09:06:32 | 20-10-2026| watch bakeru-ikesou-jan-mv: 29% (54.18/181.00s)
+[1]Melita      |09:06:38 | 20-10-2026| watch bakeru-ikesou-jan-mv: 33% (59.81/181.00s)
+[1]Melita      |09:06:44 | 20-10-2026| watch bakeru-ikesou-jan-mv: 36% (65.17/181.00s)
+[1]Melita      |09:06:50 | 20-10-2026| watch bakeru-ikesou-jan-mv: 38% (70.57/181.00s)
+[1]Melita      |09:06:56 | 20-10-2026| watch bakeru-ikesou-jan-mv: 41% (75.89/181.00s)
+[1]Melita      |09:07:02 | 20-10-2026| watch bakeru-ikesou-jan-mv: 44% (81.21/181.00s)
+[1]Melita      |09:07:08 | 20-10-2026| watch bakeru-ikesou-jan-mv: 47% (86.77/181.00s)
+[1]Melita      |09:07:14 | 20-10-2026| watch bakeru-ikesou-jan-mv: 50% (92.12/181.00s)
+[1]Melita      |09:07:20 | 20-10-2026| watch bakeru-ikesou-jan-mv: 53% (97.58/181.00s)
+[1]Melita      |09:07:26 | 20-10-2026| watch bakeru-ikesou-jan-mv: 56% (102.96/181.00s)
+[1]Melita      |09:07:32 | 20-10-2026| watch bakeru-ikesou-jan-mv: 59% (108.29/181.00s)
+[1]Melita      |09:07:38 | 20-10-2026| watch bakeru-ikesou-jan-mv: 62% (113.70/181.00s)
+[1]Melita      |09:07:44 | 20-10-2026| watch bakeru-ikesou-jan-mv: 65% (119.08/181.00s)
+[1]Melita      |09:07:50 | 20-10-2026| watch bakeru-ikesou-jan-mv: 68% (124.42/181.00s)
+[1]Melita      |09:07:56 | 20-10-2026| watch bakeru-ikesou-jan-mv: 71% (129.97/181.00s)
+[1]Melita      |09:08:02 | 20-10-2026| watch bakeru-ikesou-jan-mv: 74% (135.70/181.00s)
+[1]Melita      |09:08:08 | 20-10-2026| watch bakeru-ikesou-jan-mv: 78% (141.31/181.00s)
+[1]Melita      |09:08:14 | 20-10-2026| watch bakeru-ikesou-jan-mv: 81% (146.65/181.00s)
+[1]Melita      |09:08:21 | 20-10-2026| watch bakeru-ikesou-jan-mv: 84% (152.15/181.00s)
+[1]Melita      |09:08:27 | 20-10-2026| watch bakeru-ikesou-jan-mv: 87% (157.93/181.00s)
+[1]Melita      |09:08:33 | 20-10-2026| watch bakeru-ikesou-jan-mv: 90% (163.51/181.00s)
+[1]Melita      |09:08:33 | 20-10-2026| watch bakeru-ikesou-jan-mv: COMPLETED (163.51/181.00s)
 --> [1]Melita menjalankan: Read Article
-[1]Melita      |09:31:16 | 19-10-2026| news: 27/27 artikel selesai dibaca
-[1]Melita      |09:31:18 | 19-10-2026| mint eligibility: {"userId":"1748151597136478208","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@melitaadelinee","status":"submitted","revision":"63eb915f-e613-49aa-b62f-354599c
-[1]Melita      |09:31:18 | 19-10-2026| news: semua artikel sudah dibaca
+[1]Melita      |09:08:35 | 20-10-2026| news: 27/27 artikel selesai dibaca
+[1]Melita      |09:08:35 | 20-10-2026| mint eligibility: {"userId":"1748151597136478208","wallet":{"state":"registered","ready":true},"youtube":{"url":"https://www.youtube.com/@melitaadelinee","status":"submitted","revision":"63eb915f-e613-49aa-b62f-354599c
+[1]Melita      |09:08:35 | 20-10-2026| news: semua artikel sudah dibaca
 --> [1]Melita menjalankan: Quiz Anime
-[1]Melita      |09:31:18 | 19-10-2026| quiz ep1: sudah dijawab
-[1]Melita      |09:31:18 | 19-10-2026| quiz ep2: sudah dijawab
-[1]Melita      |09:31:18 | 19-10-2026| quiz ep3: sudah dijawab
-[1]Melita      |09:31:18 | 19-10-2026| quiz ep4: sudah dijawab
-[1]Melita      |09:31:18 | 19-10-2026| quiz ep5: sudah dijawab
-[1]Melita      |09:31:18 | 19-10-2026| quiz ep6: sudah dijawab
+[1]Melita      |09:08:36 | 20-10-2026| quiz ep1: sudah dijawab
+[1]Melita      |09:08:36 | 20-10-2026| quiz ep2: sudah dijawab
+[1]Melita      |09:08:36 | 20-10-2026| quiz ep3: sudah dijawab
+[1]Melita      |09:08:36 | 20-10-2026| quiz ep4: sudah dijawab
+[1]Melita      |09:08:36 | 20-10-2026| quiz ep5: sudah dijawab
+[1]Melita      |09:08:36 | 20-10-2026| quiz ep6: sudah dijawab
 --> [1]Melita menjalankan: Music Missions (realtime, bisa lama!)
-[1]Melita      |09:31:20 | 19-10-2026| music: kedua misi sudah tercapai, stop
-[1]Melita      |09:31:21 | 19-10-2026| mission music-listens-10: sudah diklaim
-[1]Melita      |09:31:21 | 19-10-2026| mission music-minutes-30: sudah diklaim
-[1]Melita      |09:31:21 | 19-10-2026| mission anime-completed-3: sudah diklaim
+[1]Melita      |09:08:38 | 20-10-2026| music: kedua misi sudah tercapai, stop
+[1]Melita      |09:08:38 | 20-10-2026| mission music-listens-10: sudah diklaim
+[1]Melita      |09:08:38 | 20-10-2026| mission music-minutes-30: sudah diklaim
+[1]Melita      |09:08:38 | 20-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Melita menjalankan: Claim Missions
-[1]Melita      |09:31:21 | 19-10-2026| mission music-listens-10: sudah diklaim
-[1]Melita      |09:31:21 | 19-10-2026| mission music-minutes-30: sudah diklaim
-[1]Melita      |09:31:21 | 19-10-2026| mission anime-completed-3: sudah diklaim
+[1]Melita      |09:08:39 | 20-10-2026| mission music-listens-10: sudah diklaim
+[1]Melita      |09:08:39 | 20-10-2026| mission music-minutes-30: sudah diklaim
+[1]Melita      |09:08:39 | 20-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Melita menjalankan: Check Eligibility
 
 --- eligibility [1]Melita ---
-  @melitaadeline | score=1460 rank=4714
-  tasks    [##################--] 74/84
+  @melitaadeline | score=1570 rank=4437
+  tasks    [##################--] 73/79
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
   quiz     [####################] 6/6
-  watch    [####################] 18/17
+  watch    [####################] 20/17
   music    [####################] 11/11
   artikel  [####################] 27/27
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Melita menjalankan: Read Manga
-[1]Melita      |09:31:27 | 19-10-2026| manga: 0/13 chapter belum completed
+[1]Melita      |09:08:42 | 20-10-2026| manga: 0/13 chapter belum completed
 --> [1]Melita menjalankan: Get Gift
-[1]Melita      |09:31:28 | 19-10-2026| gift: 0/4 belum diterima
+[1]Melita      |09:08:43 | 20-10-2026| gift: 0/4 belum diterima
 --> [1]Melita menjalankan: Setup Profile
-[1]Melita      |09:31:28 | 19-10-2026| profile: bio="https://x.com/melitaadeline" fav=amato rewardAt=1791706616
-[1]Melita      |09:31:28 | 19-10-2026| profile: bonus sudah diklaim, skip
+[1]Melita      |09:08:43 | 20-10-2026| profile: bio="https://x.com/melitaadeline" fav=amato rewardAt=1791706616
+[1]Melita      |09:08:43 | 20-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Melita menjalankan: Bind Wallet
-[1]Melita      |09:31:29 | 19-10-2026| wallet: sudah terikat 4JL9mHbkPH... (solana)
+[1]Melita      |09:08:44 | 20-10-2026| wallet: sudah terikat 4JL9mHbkPH... (solana)
 
 == RINGKASAN ==
-- Melita: daily=claimed | tasks OK 11/11 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Melita: daily=claimed | tasks OK 7/7 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 2/4 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
